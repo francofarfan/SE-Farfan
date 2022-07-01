@@ -1,0 +1,35 @@
+.input-group{
+    width: 300px;
+    padding: 0;
+}
+
+footer{
+    background-color: #f8f9fa;
+}
+
+.redesSociales a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 622px){
+    .logoEnFooter{
+        display: none;
+    }
+}
+
+.barraSeccionMujer{
+    background-color: #fa85f0;
+    opacity: 60%;
+}
+
+.barraSeccionMujer{
+    margin-top: 20px;
+}
+
+.btn-primary{
+    background-color:#0d6dfdbe
+}
+
+.card{
+    background-color: #ff00d41c 
+}
